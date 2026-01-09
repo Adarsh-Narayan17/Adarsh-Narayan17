@@ -20,10 +20,9 @@
 
 ## 👨‍💻 About Me
 
-I am a cloud-focused developer with hands-on experience in **AWS and IBM Cloud**, including AI-enabled services using **IBM Watson**.  
-Completed a **1-month AICTE-approved virtual internship on IBM Cloud via Edunet Foundation**, where I worked on real-world cloud projects and gained exposure to **Terraform (Infrastructure as Code)** and containerized deployments using **Docker**.  
-
-I am passionate about **solving problems**, building **scalable cloud solutions**, and continuously learning new technologies.  
+Cloud-focused developer with hands-on experience in **AWS and IBM Cloud**, including AI services with **IBM Watson**, and a **1-month AICTE-approved IBM Cloud internship via Edunet Foundation**.  
+Worked on **Terraform (IaC)** and **Docker** to build cloud-native solutions.  
+Passionate about solving problems, learning new technologies, and building scalable systems.
 
 ---
 
@@ -32,11 +31,10 @@ I am passionate about **solving problems**, building **scalable cloud solutions*
 ### ☁️ Cloud Intern — IBM Cloud  
 **Edunet Foundation | AICTE Approved | Virtual | 1 Month**
 
-- Worked hands-on with **IBM Cloud services and IBM Watson AI**  
-- Learned cloud deployment models and **service-based architecture**  
-- Built cloud-based solutions using **Terraform** for Infrastructure as Code  
-- Gained experience with **Docker containerization**  
-- Improved understanding of scalable and secure cloud systems  
+- Hands-on experience with **IBM Cloud services and IBM Watson**  
+- Built cloud-based solutions using **Terraform**  
+- Deployed containerized apps with **Docker**  
+- Learned cloud deployment models, architecture, and secure cloud practices  
 
 **Technologies & Tools:** IBM Cloud, IBM Watson, Terraform, Docker, Cloud Fundamentals
 
@@ -54,78 +52,52 @@ I am passionate about **solving problems**, building **scalable cloud solutions*
 
 ---
 
-## 🧠 Core Skills
+## 🧰 Core Skills
 
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3, IAM basics)  
-- IBM Cloud & IBM Watson (AI & Cognitive Services basics)  
-- Terraform (Infrastructure as Code – basics)  
-- Docker & Containerization  
-- CI/CD Fundamentals  
-- Cloud Architecture Basics  
-
-### 💻 Programming & DSA
-- Java, Python, JavaScript  
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-
-### 🌐 Web & Backend
-- HTML, CSS, JavaScript  
-- React, Node.js, Express  
-- RESTful APIs  
-- MySQL, MongoDB  
-
-### 🛠️ Tools
-- Git & GitHub  
-- Linux (Basics)  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</p>
 
 ---
 
 ## 🏗️ Infrastructure as Code (IaC)
 
-- Provisioning infrastructure using **Terraform**  
-- Writing declarative `.tf` configuration files  
-- Managing cloud resources as code with **state files and modules**  
-- Building **scalable and repeatable infrastructure setups**
-
----
-
-## 🛠️ Technologies
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-</p>
-
----
-
-## 📈 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh-narayan17&theme=minimal" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/> Terraform | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> Docker
 </p>
+
+- Declarative infrastructure provisioning using **Terraform**  
+- Managed resources as code with modules and state files  
+- Containerized apps with **Docker** for reproducible environments  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsh-narayan17&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adarsh-narayan17&show_icons=true&theme=default&count_private=true&hide_title=false&hide_border=false&hide_rank=false&rank_icon=github&card_width=300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-narayan17&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh-narayan17&theme=github" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/adarsh-narayan17/adarsh-narayan17/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+> Snake effect for contributions makes GitHub activity **dynamic and visually engaging**
 
 ---
 
