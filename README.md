@@ -1,96 +1,100 @@
-<h1 align="center">
-  Hi 👋, I'm Adarsh Narayan
-</h1>
+<h1 align="center">Hi 👋, I'm Adarsh Narayan</h1>
 
 <h3 align="center">
-  ☁️ Cloud Developer | Frontend Enthusiast | Problem Solver
+  Cloud Developer | Frontend Developer | AWS | Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Cloud+Developer+from+India;AWS+%7C+Docker+%7C+DevOps+Basics;5%E2%AD%90+HackerRank+in+DSA;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+Developer+from+India;AWS+%7C+Docker+%7C+Full+Stack+Basics;5%E2%AD%90+HackerRank+DSA;Open+to+Internships+%26+Full-Time+Roles" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarsh-narayan17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://komarev.com/ghpvc/?username=adarsh-narayan17&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary
 
-- ☁️ **Cloud Developer** focused on scalable and secure applications  
-- 🔭 Currently working on **Cloud Technologies & DevOps Basics**
-- 🌱 Learning **AWS, Docker, Java, Python, JavaScript**
-- ⭐ **5-Star HackerRank** in **Data Structures & Algorithms**
-- 💡 Strong interest in **Cloud Architecture & Full Stack Development**
-- ⚡ Fun fact: **I think I am funny 😄**
+Cloud-focused developer with hands-on experience in **AWS, Docker, and Full Stack technologies**.  
+Strong problem-solving background with **5★ HackerRank in Data Structures & Algorithms**.  
+Actively building scalable, cloud-native projects and continuously improving system design skills.
 
-📫 Reach me at: **adarshnarayan517@gmail.com**
+🎯 **Actively seeking:** Cloud / Software Developer Internships & Entry-Level Roles
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 Core Skills (Recruiter Keywords)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/adarsh-narayan-763a93312/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-</p>
+**Cloud & DevOps**
+- AWS (EC2, S3, IAM – fundamentals)
+- Docker, Containerization
+- CI/CD Basics
+- Cloud Architecture Fundamentals
+
+**Programming**
+- Java, Python, JavaScript
+- Data Structures & Algorithms
+- Object-Oriented Programming
+
+**Web & Backend**
+- HTML, CSS, JavaScript
+- React, Node.js, Express
+- REST APIs
+- MySQL, MongoDB
+
+**Tools**
+- Git & GitHub
+- Linux (Basics)
 
 ---
 
 ## 🏆 Achievements
 
-<p align="left">
-  ⭐ <b>5-Star HackerRank</b> in <b>DSA</b><br/>
-  🏅 Active Problem Solver & Competitive Programmer
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adarsh-narayan17&theme=onedark&row=1&column=6" />
-</p>
+- ⭐ **5-Star HackerRank** – Data Structures & Algorithms  
+- ✅ Solved multiple algorithmic problems (arrays, strings, recursion, hashing)
+- 🚀 Hands-on cloud projects using AWS & Docker
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Technologies
 
 <p align="left">
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsh-narayan17&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adarsh-narayan17&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-narayan17&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-narayan17&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-narayan17&theme=default" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</p>
+## 🤝 Contact
 
-<h3 align="center">
-  🚀 Building cloud-native solutions, one commit at a time
-</h3>
+📧 **Email:** adarshnarayan517@gmail.com  
+🔗 **LinkedIn:**  
+<a href="https://www.linkedin.com/in/adarsh-narayan-763a93312/" target="_blank">
+linkedin.com/in/adarsh-narayan
+</a>
+
+---
+
+<p align="center">
+  <i>“Building scalable cloud solutions and solving real-world problems.”</i>
+</p>
