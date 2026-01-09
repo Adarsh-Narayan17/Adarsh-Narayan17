@@ -5,7 +5,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Cloud+Developer+from+India;AWS+%7C+IBM+Cloud+%7C+Docker+%7C+Terraform;5%E2%AD%90+HackerRank+DSA;Open+to+Internships+%26+Entry-Level+Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Building+cloud-native+solutions;Learning+AWS+%7C+IBM+Cloud+%7C+Docker+%7C+Terraform;5%E2%AD%90+HackerRank+DSA;Open+to+Internships+and+Entry-Level+Roles" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 <p align="center">
@@ -14,76 +18,75 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
-Cloud-focused developer with hands-on experience in **AWS and IBM Cloud**, including AI-enabled services using **IBM Watson**, and a  
-**1-month AICTE-approved virtual internship on IBM Cloud via Edunet Foundation**.  
-Strong problem-solving background with **5★ HackerRank in Data Structures & Algorithms**.  
-Actively building cloud-native and full-stack projects, seeking **internship or entry-level cloud/software roles**.
+I am a cloud-focused developer with hands-on experience in **AWS and IBM Cloud**, including AI-enabled services using **IBM Watson**.  
+Completed a **1-month AICTE-approved virtual internship on IBM Cloud via Edunet Foundation**, where I worked on real-world cloud projects and gained exposure to **Terraform (Infrastructure as Code)** and containerized deployments using **Docker**.  
+
+I am passionate about **solving problems**, building **scalable cloud solutions**, and continuously learning new technologies.  
 
 ---
 
 ## 💼 Professional Experience
 
 ### ☁️ Cloud Intern — IBM Cloud  
-**Edunet Foundation | AICTE Approved | Virtual**  
-**Duration:** 1 Month
+**Edunet Foundation | AICTE Approved | Virtual | 1 Month**
 
-- Worked hands-on with **IBM Cloud services and tools**
-- Gained exposure to **IBM Watson services** (AI & cognitive services)
-- Learned cloud deployment models and **service-based architecture**
-- Built and analyzed cloud-based solutions under guided mentorship
-- Understood real-world applications of **AI-powered cloud systems**
+- Worked hands-on with **IBM Cloud services and IBM Watson AI**  
+- Learned cloud deployment models and **service-based architecture**  
+- Built cloud-based solutions using **Terraform** for Infrastructure as Code  
+- Gained experience with **Docker containerization**  
+- Improved understanding of scalable and secure cloud systems  
 
-**Technologies & Tools:**  
-IBM Cloud, IBM Watson, **Terraform (IaC – Basics)**, Cloud Computing Fundamentals
+**Technologies & Tools:** IBM Cloud, IBM Watson, Terraform, Docker, Cloud Fundamentals
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- 🥇 **AICTE-Approved Internship Certificate** (IBM Cloud – Edunet Foundation)
-- 📜 **Internship Completion Certificate – IBM Cloud**
-- ⭐ **5-Star HackerRank** in **Data Structures & Algorithms**
-- 💻 Consistent problem-solving and hands-on cloud practice
+- 🥇 AICTE-Approved Internship Certificate (IBM Cloud – Edunet Foundation)  
+- 📜 Completion Certificate – IBM Cloud Internship  
+- ⭐ 5★ HackerRank in **Data Structures & Algorithms**  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
 
 ---
 
-## 🧠 Core Skills (Recruiter Keywords)
+## 🧠 Core Skills
 
 ### ☁️ Cloud & DevOps
-- AWS (EC2, S3, IAM – Fundamentals)
-- IBM Cloud
-- IBM Watson (AI & Cognitive Services – Basics)
-- **Terraform (Infrastructure as Code – Basics)**
-- Docker & Containerization
-- Cloud Architecture Basics
-- CI/CD Fundamentals
+- AWS (EC2, S3, IAM basics)  
+- IBM Cloud & IBM Watson (AI & Cognitive Services basics)  
+- Terraform (Infrastructure as Code – basics)  
+- Docker & Containerization  
+- CI/CD Fundamentals  
+- Cloud Architecture Basics  
 
 ### 💻 Programming & DSA
-- Java, Python, JavaScript
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
+- Java, Python, JavaScript  
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
 
 ### 🌐 Web & Backend
-- HTML, CSS, JavaScript
-- React, Node.js, Express
-- RESTful APIs
-- MySQL, MongoDB
+- HTML, CSS, JavaScript  
+- React, Node.js, Express  
+- RESTful APIs  
+- MySQL, MongoDB  
 
 ### 🛠️ Tools
-- Git & GitHub
-- Linux (Basics)
+- Git & GitHub  
+- Linux (Basics)  
 
 ---
 
 ## 🏗️ Infrastructure as Code (IaC)
 
-- Infrastructure provisioning using **Terraform**
-- Writing declarative `.tf` configuration files
-- Managing cloud resources as code
-- Understanding state files and basic modules
-- Exposure to scalable and repeatable infrastructure setups
+- Provisioning infrastructure using **Terraform**  
+- Writing declarative `.tf` configuration files  
+- Managing cloud resources as code with **state files and modules**  
+- Building **scalable and repeatable infrastructure setups**
 
 ---
 
@@ -128,14 +131,11 @@ IBM Cloud, IBM Watson, **Terraform (IaC – Basics)**, Cloud Computing Fundament
 
 ## 🤝 Contact
 
-📧 **Email:** adarshnarayan517@gmail.com  
-🔗 **LinkedIn:**  
-<a href="https://www.linkedin.com/in/adarsh-narayan-763a93312/" target="_blank">
-linkedin.com/in/adarsh-narayan
-</a>
+📧 Email: adarshnarayan517@gmail.com  
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/adarsh-narayan-763a93312/" target="_blank">linkedin.com/in/adarsh-narayan</a>
 
 ---
 
 <p align="center">
-  <i>Building scalable cloud solutions and solving real-world problems.</i>
+  <i>Building scalable cloud solutions and solving real-world problems, one commit at a time.</i>
 </p>
